@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "puppeteer-core": "latest"
+  },
+  "scripts": {
+    "dev": "node mp_wx_back.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
